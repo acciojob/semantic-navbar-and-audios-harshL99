@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+ul{
+   list-style:none;
+}
+li{
+	float:left;
+	margin: 10px;
+}
+li > a{
+	text-decoration:none;
+}
